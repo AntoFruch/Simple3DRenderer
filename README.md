@@ -4,6 +4,8 @@
 
 Le but du projet est de comprendre les bases d'un renderer 3D en construisant les objets, leurs transformations et leur projection à l'écran sans utiliser de moteur 3D existant.
 
+![screenshot](screenshot.png)
+
 ## Fonctionnalites
 
 - Affichage d'objets 3D en wireframe
