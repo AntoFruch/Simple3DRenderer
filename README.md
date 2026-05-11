@@ -89,3 +89,6 @@ Ce projet est avant tout un projet d'apprentissage. Il me permet d'explorer :
 - Gerer les faces pleines (Shaders ?)
 - Ameliorer la projection et le clipping
 
+## Credits
+
+La base SFML et le projet CMake de l'application ont été récupéré de projets exemples des cours de développement C++ de Michel Simatic à Télécom Sudparis.
